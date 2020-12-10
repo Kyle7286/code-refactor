@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,18 +86,17 @@ main {
     background-color: #2589bd;
 }
 
-.benefits section {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits section h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center; 
 }
 
-
-.benefits section img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
