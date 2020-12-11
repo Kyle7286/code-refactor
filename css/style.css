@@ -1,3 +1,4 @@
+/* global styling; all page elements will include content, padding and border */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -28,6 +29,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* header navigation section; aligning/centering */
 header nav  {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,11 +37,13 @@ header nav  {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-    
+
+/* nav section list element */
 header nav ul  {
     list-style-type: none;
 }
 
+/* nav nav lit item elements */
 header nav ul li  {
     display: inline-block;
     margin-left: 25px;
@@ -51,11 +55,12 @@ a {
     text-decoration: none;
 }
 
+/* consistent 16px size across the page with <p> */
 p {
     font-size: 16;
 }
 
-/* Main page img */
+/* Body page img; the main image and needs to be the feature image */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,23 +70,25 @@ p {
     background-position: center;
 }
 
-/*  */
+/* img elements floated left: seo & smm */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* img elements floated right: orm */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main content section */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* 3 sections within main */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,15 +98,18 @@ main section {
     color: #ffffff;
 }
 
+/* setting hight to main section imgs */
 main section img {
     max-height: 200px;
 }
 
+/* styling for main section h2; spaces p  */
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* right side of page content; contains 3 sections */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -111,30 +121,30 @@ aside {
     background-color: #2589bd;
 }
 
+/* styling for each section in aside */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* styling for h3 wthin each aside section */
 aside section h3 {
     margin-bottom: 10px;
     text-align: center; 
 }
 
+/* styling to align/center aside images */
 aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* footer which is made with love; styling to center on page */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-/* Footer styling; */
-h4 {
     font-size: 20px;
 }
