@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* page body; all we need here is a background color set to a ~softer~ color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Horiseon header; contains nav, ul & li elements */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +17,13 @@ header {
     color: #ffffff;
 }
 
+/* H1 element; display inline-block with main header*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* "seo" letters are colored slightly different to stand out  */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,15 +45,17 @@ header nav ul li  {
     margin-left: 25px;
 }
 
+/* coloring all links; removed underlining to look more clean on the page */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 16;
 }
 
+/* Main page img */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/*  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,7 +100,6 @@ main section h2 {
     font-size: 36px;
 }
 
-
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,10 +126,6 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
-
 
 footer {
     padding: 30px;
