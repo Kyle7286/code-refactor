@@ -22,7 +22,12 @@ The purpose of this webpage assignment was to learn how to refactor code and cle
 * Learned how to better approach code writing under a "clean code" lens and develop an eye of what consistutes as clean vs dry
 * Learned syntax of a markdown file; hence this readme
 
-## Thank you 👍
+## Screenshot 📊
+---
+![Iceland](./assets/images/Horiseon_Refactored.png)
+
+
+## Thank you 👍 
 ---
 Thank you for your time reviewing my project/code!<br>
 I offer you a relaxing scenery; enjoy.
