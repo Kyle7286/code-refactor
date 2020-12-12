@@ -30,6 +30,6 @@ The purpose of this webpage assignment was to learn how to refactor code and cle
 
 ## Thank you 👍 
 ---
-![Iceland](./assets/images/markdown/Iceland-SomewhereEastFjords.JPG)
-<span style="color:#a0c9f0">Eastern Fjords of Iceland</span>
+![Iceland](./Assets/images/markdown/Iceland-SomewhereEastFjords.JPG)
+
 
