@@ -24,7 +24,8 @@ The purpose of this webpage assignment was to learn how to refactor code and cle
 
 ## Screenshot 📊
 ---
-![Screenshot](./assets/images/Horiseon_Refactored.png)
+![Screenshot](./Assets/images/Horiseon_Refactored.png)
+
 
 
 ## Thank you 👍 
