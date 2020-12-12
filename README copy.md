@@ -1,1 +1,0 @@
-![Screenshot](./Assets/images/Horiseon_Refactored.png)

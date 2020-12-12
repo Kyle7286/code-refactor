@@ -30,6 +30,9 @@ The purpose of this webpage assignment was to learn how to refactor code and cle
 
 ## Thank you 👍 
 ---
+Thank you for your time reviewing my project/code!<br>
+I offer you a relaxing scenery; enjoy.
 ![Iceland](./Assets/images/markdown/Iceland-SomewhereEastFjords.JPG)
+<span style="color:#a0c9f0">Eastern Fjords of Iceland</span>
 
 
